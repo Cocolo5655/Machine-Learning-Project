@@ -1,2 +1,2 @@
-# Machine-Learning-Project
-A Loan Approval System
+# My Projects
+All Projects I Have Worked on
